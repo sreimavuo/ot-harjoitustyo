@@ -10,4 +10,7 @@ Syksy 2022
 
 [gitlog.txt](https://github.com/sreimavuo/ot-harjoitustyo/blob/main/laskarit/viikko1/gitlog.txt)
 
+## Viikko 2
+
+## Viikko 3
 
