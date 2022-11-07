@@ -122,3 +122,4 @@ Date:   Mon Nov 7 11:57:17 2022 +0200
  tiedosto.txt | 0
  1 file changed, 0 insertions(+), 0 deletions(-)
 
+Viikko 1 Tehtävä 17 vaatima pieni editointi.
