@@ -1,4 +1,6 @@
-# Ohjelmistotekniikka (syksy 2022)
+# Ohjelmistotekniikka
+
+Syksy 2022
 
 ## Tehtävät
 
