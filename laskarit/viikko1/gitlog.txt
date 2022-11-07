@@ -1,0 +1,124 @@
+➜  ot_viikko1 git:(main) git log --stat | cat
+commit c5b6f4e103198a3377e15ed9db4e08206b34318f
+Author: Sami Reimavuo <sami@reimavuo.net>
+Date:   Mon Nov 7 18:38:06 2022 +0200
+
+    Tehtävä 11 tehty
+
+ tiedostoja/file2             | 0
+ tiedostoja/{file1 => file22} | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 8f581bea61e84a2f22bcffe3ab62059212f0ebd9
+Author: Sami Reimavuo <sami@reimavuo.net>
+Date:   Mon Nov 7 18:19:12 2022 +0200
+
+    Tiedostoja lisätty
+
+ tiedostoja/file1 | 0
+ tiedostoja/file2 | 0
+ tiedostoja/file3 | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 35ae5beb72b80172edc65d27144e4457385ad4cd
+Author: Sami Reimavuo <sami@reimavuo.net>
+Date:   Mon Nov 7 18:11:50 2022 +0200
+
+    Muutoksia
+
+ eka.txt    | 2 ++
+ kolmas.txt | 3 +++
+ 2 files changed, 5 insertions(+)
+
+commit 8d431ecedccf58249dea27d29129605bb9d75b6c
+Author: Sami Reimavuo <sami@reimavuo.net>
+Date:   Mon Nov 7 18:10:41 2022 +0200
+
+    Uudelleennimettiin tiedosto.txt
+
+ tiedosto.txt => eka.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 901e174ec44f69e5da15d4a55604aa5087d5e1da
+Author: Sami Reimavuo <sami@reimavuo.net>
+Date:   Mon Nov 7 18:09:03 2022 +0200
+
+    Poistettu toinen.txt
+
+ toinen.txt | 1 -
+ 1 file changed, 1 deletion(-)
+
+commit bc0babaa7a03bc8a81929b7f5f3d5a033373d696
+Author: Sami Reimavuo <sami@reimavuo.net>
+Date:   Mon Nov 7 18:00:45 2022 +0200
+
+    Poistettu tekstiä ja lisätty uutta
+
+ tiedosto.txt | 9 +++++++--
+ 1 file changed, 7 insertions(+), 2 deletions(-)
+
+commit 47691f72509484d143bbecff1633a9f3caa80bdd
+Author: Sami Reimavuo <sami@reimavuo.net>
+Date:   Mon Nov 7 17:59:27 2022 +0200
+
+    Lisää tekstiä tiedosto.txt:aan
+
+ tiedosto.txt | 14 ++++++++++++++
+ 1 file changed, 14 insertions(+)
+
+commit 0d0ed52ce5362811e39dc0d32157144c03ec01f2
+Author: Sami Reimavuo <sami@reimavuo.net>
+Date:   Mon Nov 7 12:55:56 2022 +0200
+
+    Lisätty stuff-hakemisto
+
+ stuff/todo.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 0e73e2195f55d3f0948fed8ee4f30f07df7806fd
+Author: Sami Reimavuo <sami@reimavuo.net>
+Date:   Mon Nov 7 12:55:29 2022 +0200
+
+    Muutoksia
+
+ kolmas.txt | 1 +
+ toinen.txt | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit ade3993ce00c6994007f317b81d2dc46a4b5c3a6
+Author: Sami Reimavuo <sami@reimavuo.net>
+Date:   Mon Nov 7 12:53:42 2022 +0200
+
+    lisätty kolmas.txt
+
+ kolmas.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit cdb5b2510c6ca67a8e4506ac4e49940af9d57dc6
+Author: Sami Reimavuo <sami@reimavuo.net>
+Date:   Mon Nov 7 12:51:16 2022 +0200
+
+    muutos ja lisäys
+
+ tiedosto.txt | 1 +
+ toinen.txt   | 0
+ 2 files changed, 1 insertion(+)
+
+commit 919001b21845d05107df389559b8437ae327a060
+Author: Sami Reimavuo <sami@reimavuo.net>
+Date:   Mon Nov 7 11:58:10 2022 +0200
+
+    gitignore luotu
+
+ .gitignore | 2 ++
+ 1 file changed, 2 insertions(+)
+
+commit d17b1a14c6ce5bbd5def70316c0c53604130a740
+Author: Sami Reimavuo <sami@reimavuo.net>
+Date:   Mon Nov 7 11:57:17 2022 +0200
+
+    tiedosto.txt luotu
+
+ tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
