@@ -20,5 +20,7 @@ Syksy 2022
 
 ### Viikko 2
 
+[testikattavuus.png](https://github.com/sreimavuo/ot-harjoitustyo/blob/main/laskarit/viikko2/testikattavuus.png)
+
 ### Viikko 3
 
