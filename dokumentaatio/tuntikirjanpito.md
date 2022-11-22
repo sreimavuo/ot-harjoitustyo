@@ -13,7 +13,7 @@ Ohjelmistotekniikka-kurssin harjoitustyölle (syksy 2022)
 | 16.11. | 2  | Perehtyminen sovelluksen rakentamiseen (riippuvuuksien injektointi, testaaminen, sqlite3, python-dotenv) |
 | 18.11. | 2  | Poetryn alustus ja riippuvuuksien asennus, sovelluslogiikan hahmottelua |
 | 21.11. | 3  | TkInter-harjoittelua, python-asennuksen TkInter-troubleshoottausta |
-| 22.11. | 6  | Lisää TkInter-harjoittelua, entity-luokkien alustavat toteutukset ja niiden yksikkötestit, projektin rakenne kuntoon kaikilta osin |
+| 22.11. | 9  | Lisää TkInter-harjoittelua, entity-luokkien alustavat toteutukset ja niiden yksikkötestit, projektin rakenne kuntoon kaikilta osin |
 ||||
 ||||
 ||||
