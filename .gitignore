@@ -1,6 +1,7 @@
 .DS_Store
 *.code-workspace
 .venv
+.python-version
 __pycache__
 .pytest_cache
 .coverage

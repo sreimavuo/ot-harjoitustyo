@@ -1,26 +1,49 @@
-# Ohjelmistotekniikka
+Harjoitustyö, Ohjelmistotekniikka, Syksy 2022
 
-Syksy 2022
+# Loadouts
 
-## Harjoitustyö
-
-### Dokumentaatio
+## Dokumentaatio
 
 [Vaatimusmäärittely](https://github.com/sreimavuo/ot-harjoitustyo/blob/main/dokumentaatio/vaatimusmaarittely.md)
 
 [Tuntikirjanpito](https://github.com/sreimavuo/ot-harjoitustyo/blob/main/dokumentaatio/tuntikirjanpito.md)
 
-## Tehtävät
+[Changelog](https://github.com/sreimavuo/ot-harjoitustyo/blob/main/dokumentaatio/changelog.md)
 
-### Viikko 1
+## Sovelluksen riippuvuudet
 
-[komentorivi.txt](https://github.com/sreimavuo/ot-harjoitustyo/blob/main/laskarit/viikko1/komentorivi.txt)
+Sovellus on kehitetty ja testattu Python versiolla 3.8.10 (sama mikä on asennettuna yliopiston melkki-palvelimella sekä VDI Cubbli -ympäristöissä).
 
-[gitlog.txt](https://github.com/sreimavuo/ot-harjoitustyo/blob/main/laskarit/viikko1/gitlog.txt)
+## Asennus
 
-### Viikko 2
+1. Asenna riippuvuudet komennolla:
 
-[testikattavuus.png](https://github.com/sreimavuo/ot-harjoitustyo/blob/main/laskarit/viikko2/testikattavuus.png)
+```text
+poetry install
+```
 
-### Viikko 3
+## Komentorivikomennot
 
+### Ohjelman suorittaminen
+
+Ohjelma suoritetaan komennolla:
+
+```text
+poetry run invoke start
+```
+
+### Testien ajaminen
+
+Automaattiset yksikkötestit ajetaan komennolla:
+
+```text
+poetry run invoke test
+```
+
+### Testikattavuus
+
+Testikattavuusraportti tuotetaan komennolla:
+
+```text
+poetry run invoke coverage-report
+```
